@@ -1,6 +1,5 @@
 # Table of contents
 
-* [an ordinary day](README.md)
 * [0](0.md)
 * [1](1.md)
 * [2](2.md)
